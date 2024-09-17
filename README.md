@@ -22,7 +22,11 @@
 <br />
 <br />
 
-Hi, I'm Colder, a financial professional from Asia with a background in financial engineering and quantitative trading, and I am now involved in the Web 3.0 industry. I specialize in macro and microeconomic analysis, quantitative analysis, hedging, and arbitrage, as well as traditional chart trading. My favorite markets are gold and directly quoted forex, and I am also trading cryptocurrencies now. I look forward to connecting with like-minded individuals and those interested in exchanging knowledge. I look forward to your visit.
+Hi, I'm Colder, **a financial professional** from Asia with **a background in financial engineering and quantitative trading**, and I am now involved in the **Web 3.0 industry**. 
+
+I specialize in **macro and microeconomic analysis**, **quantitative analysis**, **hedging**, and **arbitrage**, as well as **traditional chart trading**. 
+
+My favorite markets are gold and directly quoted forex, and I am also trading cryptocurrencies now. I look forward to connecting with like-minded individuals and those interested in exchanging knowledge. I look forward to your visit.
 
 
 
@@ -46,7 +50,6 @@ Hi, I'm Colder, a financial professional from Asia with a background in financia
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/solidity/solidity.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
-<code><img height="20" src="https://github.com/github/explore/tree/main/topics/shell"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"></code>
 
 
