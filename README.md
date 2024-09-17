@@ -51,5 +51,7 @@ My favorite markets are gold and directly quoted forex, and I am also trading cr
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/matlab/matlab.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/sql-server/sql-server.png"></code>
 <code><img height="20" src="https://github.com/github/explore/blob/main/topics/linux/linux.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/git/git.png"></code>
+<code><img height="20" src="https://github.com/github/explore/blob/main/topics/github/github.png"></code>
 
 
