@@ -1,4 +1,4 @@
-### Hey 🤗, I'm [Colder!](https://github.com/taoranzhishang) also you can call me Reign
+### Hey 🤗, I'm [Colder!](https://github.com/taoranzhishang)
 
 <a href="">
   <img align="left" alt="Victor Williams | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
