@@ -37,7 +37,7 @@ My favorite markets are gold and directly quoted forex, and I am also trading cr
 - 👯 I’m looking to collaborate on DevPost;
 - 💬 Ask me about anything, I am happy to help;
 - ⚡️ Fun-Fact: Anything is possible;
-- 📫 How to reach me: taoranzhishang@gmail.com;
+- 📫 How to reach me: ;
 - 📝[Resume]()
 
 **Languages and Tools:**
